@@ -4,7 +4,10 @@ Este projeto é um template em LaTeX para criar currículos profissionais de for
 
 ## Estrutura do Projeto
 
-- `CV-Model.tex`: Arquivo principal onde o conteúdo do currículo é escrito.
+- `CV-Model.tex`: é uma versão corrigida por uma recrutadora de um modelo de curriculo.
+    ![CV Model](image.png)
+
+- `CV-Model - english.tex`: é uma outra versão com linhas para separação e cor.
 
 ## Como Usar
 
